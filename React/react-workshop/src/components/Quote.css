@@ -1,0 +1,7 @@
+.Quote{
+    border: 5px solid purple;
+    color:rgb(25, 144, 148);
+    width: 300px;
+    margin: 10px auto;
+    text-align: center;
+}
